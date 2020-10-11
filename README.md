@@ -24,4 +24,4 @@
 ---- 可视化大屏 --> 图合并
 ```
 
-https://raw.githubusercontent.com/Small-J-gif/Job_Spider/main/demo.png
+![demo.png](https://github.com/Small-J-gif/Job_Spider/blob/main/demo.png?raw=true)
