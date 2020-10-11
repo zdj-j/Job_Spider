@@ -7,10 +7,8 @@
     数据可视化大屏
     
 数据清洗+可视化
-----html
------- Bi_render.html   -> 可视化大图
+----- Bi_render.html   -> 可视化大图
 ------ resize_render.html  -> 没排序的可视化
-----json
 ------ chart_config  -> 位置文件
 ---- cleaning_data.py  -> 数据清洗后的结果
 ---- Education_Pie.py  -> Python数据开发工程师学历饼图
