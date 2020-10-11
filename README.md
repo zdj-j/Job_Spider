@@ -24,4 +24,4 @@
 ---- 可视化大屏 --> 图合并
 ```
 
-![image-20201011003414651](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201011003414651.png)
+https://github.com/Small-J-gif/Job_Spider/blob/main/demo.png?raw=true
